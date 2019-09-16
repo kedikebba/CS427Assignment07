@@ -55,6 +55,14 @@ console.log("Expected output of streamReduce() is 135  " + myFunctionTest(135, f
 function maxTwo(num1, num2){
     return (num1>num2)?num1:num2;
 }
+let arr1 = [8,9];
+
+var maxTwo = arr1.find(function(){
+    
+});
+
+
+
 
 //Question 3:
 function maxThree(num1, num2, num3){
